@@ -2,7 +2,7 @@
 
 <!-- Typing animation -->
 <a href="https://github.com/AyushKirtiSingh">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=460&lines=%20Hi+there%2C+I'm+Ayush+Kirti+Singh;CS+Student+%7C+Learning+DSA+%26+Web+Dev;Building+in+Public%2C+One+Repo+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=%20Hi+there%2C+I'm+Ayush+Kirti+Singh;CS+Student+%7C+Learning+DSA+%26+Web+Dev;Building+in+Public%2C+One+Repo+at+a+Time" alt="Typing SVG" />
 </a>
 
 ### CS Student · Learning Data Structures & Algorithms · Web Fundamentals
