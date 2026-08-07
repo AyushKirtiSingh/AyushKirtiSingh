@@ -116,9 +116,9 @@ A personalized interview preparation platform that analyzes your eligibility for
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/AyushKirtiSingh/AyushKirtiSingh/output/github-contribution-grid-snake-dark.svg" width="90%" />
+Watch the snake devour my daily GitHub contributions 🟢
 
-</div>
+<img src="https://raw.githubusercontent.com/AyushKirtiSingh/AyushKirtiSingh/output/github-contribution-grid-snake.svg" width="90%" /> </div>
 
 ---
 
