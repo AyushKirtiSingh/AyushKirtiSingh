@@ -1,114 +1,143 @@
 <div align="center">
 
-<!-- Typing animation -->
-<a href="https://github.com/AyushKirtiSingh">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=2E9EF7&center=true&vCenter=true&width=480&lines=%20Hi+there%2C+I'm+Ayush+Kirti+Singh;CS+Student+%7C+Learning+DSA+%26+Web+Dev;Building+in+Public%2C+One+Repo+at+a+Time" alt="Typing SVG" />
-</a>
-
-### CS Student · Learning Data Structures & Algorithms · Web Fundamentals
-
-<a href="https://www.linkedin.com/in/ayush-kirti-singh-6679203b4/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://leetcode.com/u/25_CSE_0128/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-![Profile Views](https://komarev.com/ghpvc/?username=AyushKirtiSingh&color=2E9EF7&style=flat-square&label=Profile+Views)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Hi+There%2C+I'm+Ayush+%F0%9F%91%8B;Web+Developer+%7C+DSA+Enthusiast;Building+Full-Stack+Projects+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
 <br>
 
-## About Me
+# 💫 About Me:
+🔭 I'm currently working on: Building full-stack web projects while sharpening my DSA and problem-solving skills
 
-I'm a Computer Science student currently building my foundation in **Data Structures & Algorithms** and **web development fundamentals** (HTML, CSS, JavaScript).
+👯 I'm looking to collaborate on: Open-source web dev projects and DSA/competitive programming study groups
 
-Right now, my GitHub is mostly coursework, git practice, and small web-dev assignments — I'm early in the journey and intentionally keeping this profile honest about that. I'd rather show real, verifiable work in progress than dress up a handful of practice repos as something they're not.
+🤝 I'm looking for help with: System design concepts and scaling real-world web applications
 
-**What I'm doing:**
-- 📚 Practicing DSA problem-solving on LeetCode
-- 🌐 Learning core web development (HTML/CSS/JS) through coursework and self-driven projects
-- 🛠️ Getting comfortable with Git & GitHub as daily tools, not just for class submissions
-- 🎯 Working toward my first real, from-scratch project I can be proud to pin
+🌱 I'm currently learning: Advanced DSA, System Design, and modern web frameworks (React/Node.js)
 
-If you're a fellow student, a recruiter looking at early-career profiles, or anyone open to collaborating on beginner-friendly projects — feel free to connect.
+💬 Ask me about: Web Development, DSA, LeetCode strategies, or anything Computer Science
 
-<br>
+⚡ Fun fact: I debug better with music 🎧 — and I've solved 250+ DSA problems (and counting!)
 
-## Tech Stack
+---
 
 <div align="center">
 
-**Languages & Web Fundamentals**
+## 🏅 Highlights & Achievements
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
-> Note: This list reflects what's actually reflected in my repositories today. It'll grow as I do — no badges for tools I haven't actually used yet.
-
-<br>
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AyushKirtiSingh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushKirtiSingh&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKirtiSingh&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-
-</div>
-
-<br>
-
-## Repositories
-
-A snapshot of what I've built and practiced with so far — mostly coursework, git practice, and web-dev assignments as I build toward larger independent projects.
-
-| Repository | Description | Stack |
+| Event | Role | Result |
 |---|---|---|
-| [`Git.demo`](https://github.com/AyushKirtiSingh/Git.demo) | A hands-on demo repo for practicing core Git workflows | Git |
-| [`CSE16-SEM1`](https://github.com/AyushKirtiSingh/CSE16-SEM1) | Semester 1 coursework and assignments | HTML |
-| [`classroom_work`](https://github.com/AyushKirtiSingh/classroom_work) | Classroom exercises and practice files | HTML |
-| [`Assignment1.web_dev`](https://github.com/AyushKirtiSingh/Assignment1.web_dev) | First web development assignment | HTML |
-| [`Website_clone_deployment`](https://github.com/AyushKirtiSingh/Website_clone_deployment) | Practice cloning and deploying a website | Web |
-| [`Project_Deployment`](https://github.com/AyushKirtiSingh/Project_Deployment) | Deployment practice project | HTML |
-
-<br>
-
-## Current Focus
-
-- 🧠 **Learning:** Data Structures & Algorithms, core JavaScript
-- 🏗️ **Building:** Fundamentals-first — clean HTML/CSS/JS projects before moving to frameworks
-- 🎯 **Next milestone:** Ship one original, non-coursework project worth pinning
-
-<br>
-
-## Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/ayush-kirti-singh-6679203b4/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://leetcode.com/u/25_CSE_0128/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
+| 🏛️ Claw & Shield Hackathon, Tryst (IIT Delhi) | Compliance Tester | 🥈 2nd Place |
 
 </div>
 
-<br>
+---
 
 <div align="center">
-<sub>Thanks for stopping by — this profile is a work in progress, and that's the point. ⭐</sub>
+
+## 🚀 Projects
+
 </div>
+
+### 🎯 [PrepWise](https://prepwise-frontend-onno.onrender.com)
+A personalized interview preparation platform that analyzes your eligibility for target companies, identifies skill gaps, generates an adaptive day-wise roadmap, conducts company-specific mock tests, and tracks your daily consistency through streaks and activity monitoring — all in one place.
+**Tech:** React 18 · Node.js · Express.js · MongoDB Atlas · JWT · Recharts
+🔗 [Live Demo](https://prepwise-frontend-onno.onrender.com) · [GitHub Repo](https://github.com/AyushKirtiSingh/PrepWise.git)
+
+---
+
+<div align="center">
+
+## 🌐 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AyushKirtiSingh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kirti-singh-6679203b4/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/25_CSE_0128/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushsingh9904@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+## 💻 Tech Stack
+
+![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧩 LeetCode Stats
+
+<img src="https://leetcard.jacoblin.cool/25_CSE_0128?theme=dark&font=Fira%20Code&ext=heatmap" width="90%" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.shion.dev/api?username=AyushKirtiSingh&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AyushKirtiSingh&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+
+<img src="https://streak-stats.demolab.com/?user=AyushKirtiSingh&theme=radical&hide_border=true" width="70%" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/AyushKirtiSingh/AyushKirtiSingh/output/github-contribution-grid-snake-dark.svg" width="90%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+
+[![](https://komarev.com/ghpvc/?username=AyushKirtiSingh&icon=4&color=blueviolet&style=for-the-badge)](https://visitcount.itsvg.in)
+
+</div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
