@@ -17,7 +17,7 @@
 
 💬 Ask me about: Web Development, DSA, LeetCode strategies, or anything Computer Science
 
-⚡ Fun fact: I debug better with music 🎧 — and I've solved 250+ DSA problems (and counting!)
+⚡ Fun fact: I debug better with music 🎧 — and I've solved 350+ DSA problems (and counting!)
 
 ---
 
